@@ -1,16 +1,17 @@
-id: opecha:P007002
+id: P007002
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5033
   title: དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསང་བདག་དགོངས་རྒྱན།
-  volume:
+  author: ''
+  volumes:
     87f042b7b0444261b350fe74e9931d30:
       image_group_id: I3CN5035
       title: Volume 1 of dpal gsang ba'i snying po de kho na nyid nges pa'i rgyud
         kyi 'grel pa gsang bdag dgongs rgyan/
       volume_number: 1
       total_pages: 400
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསང་བདག་དགོངས་རྒྱན།
   author: ''
